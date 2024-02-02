@@ -3,7 +3,7 @@ entries:
   helloworld:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-02T07:20:55.569856702Z"
+    created: "2024-02-02T07:41:32.700594696Z"
     description: A Helm chart for Kubernetes
     digest: 0361283d96dd3679ac1e72aef30f0e4de2178a99ea0775f00fa35310a4aef5ff
     name: helloworld
@@ -14,7 +14,7 @@ entries:
   mongo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-02T07:20:55.570358495Z"
+    created: "2024-02-02T07:41:32.701649687Z"
     description: A Helm chart for Kubernetes
     digest: 4adb8421ca2e2d4bca3fb636619e76d2b98a6e82be4f80b86f5a90a4499d1faa
     name: mongo
@@ -25,7 +25,17 @@ entries:
   nexth:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-02T07:20:55.570819302Z"
+    created: "2024-02-02T07:41:32.703599457Z"
+    description: NextResultz
+    digest: b5026e51a7e72c04d121c070de1a1600a44f215f40e0326af49c0872ab61e6d2
+    name: nexth
+    type: application
+    urls:
+    - https://github.com/akshatsinha007/my-helm-charts/raw/main/nexth-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-02T07:41:32.702525277Z"
     description: NextResultz
     digest: 9fe8e90834aeb58a950c43dfba2d990d5f52e78285cdc16de305d661987a9245
     name: nexth
@@ -33,4 +43,4 @@ entries:
     urls:
     - https://github.com/akshatsinha007/my-helm-charts/raw/main/nexth-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-02T07:20:55.569071216Z"
+generated: "2024-02-02T07:41:32.688765759Z"
